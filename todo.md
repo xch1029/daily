@@ -1,1 +1,4 @@
 - [ ] 插件学习：原生的，jq的，vue的
+- [ ] 更新vue知识：官网：教程、api、风格指南、cookbook等，vue-router,vuex,axios,vue-cli最新版，vue 服务端渲染、vue-devtools
+- [ ] 微信小程序，以及相关框架的学习使用， taro，wepy，mpvue等
+- [ ] electron 官网支持中文了，并且更新到了3.0
