@@ -4,3 +4,4 @@
 - [ ] 微信小程序，以及相关框架的学习使用， taro，wepy，mpvue等
 - [ ] electron 官网支持中文了，并且更新到了3.0
 - [x] vs code 值得深入学习（尤雨溪开始使用）
+- [ ] canvas svg 以及相关库
