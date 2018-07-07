@@ -5,3 +5,4 @@
 - [ ] electron 官网支持中文了，并且更新到了3.0
 - [x] vs code 值得深入学习（尤雨溪开始使用）
 - [ ] canvas svg 以及相关库
+- [ ] 可视化方案，echarts，g2，d3，chart.js等
