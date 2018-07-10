@@ -6,3 +6,4 @@
 - [x] vs code 值得深入学习（尤雨溪开始使用）
 - [ ] canvas svg 以及相关库
 - [ ] 可视化方案，echarts，g2，d3，chart.js等
+- [ ] 打包工具gulp，rollup，webpack，parcel
