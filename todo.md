@@ -7,3 +7,4 @@
 - [ ] canvas svg 以及相关库
 - [ ] 可视化方案，echarts，g2，d3，chart.js等
 - [ ] 打包工具gulp，rollup，webpack，parcel
+- [ ] vue cli 3.0
